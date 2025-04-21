@@ -1,0 +1,13 @@
+theme = catppuccin-mocha
+
+background-opacity = .8
+background-blur-radius = 25
+background = #000000
+
+window-decoration = true
+
+font-size = 21
+
+cursor-style = block
+cursor-style-blink = true
+shell-integration-features = no-cursor
