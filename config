@@ -8,6 +8,6 @@ window-decoration = true
 
 font-size = 21
 
+shell-integration-features = no-cursor
 cursor-style = block
 cursor-style-blink = true
-shell-integration-features = no-cursor
